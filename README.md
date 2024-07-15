@@ -1,5 +1,5 @@
 # Genboost
-This is the code I used in an experiment for a presentaion on Generalization Boosts.
+This is the code I used in an experiment for a presentation on Generalization Boosts.
 
 The dataset for the experiment was "Obesity Levels" ( https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels )
 
