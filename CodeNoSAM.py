@@ -5,7 +5,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from torch.utils.data import Subset
 import numpy as np
-print('dicker durchlauf')
+
 data = pd.read_csv(r'C:\Users\Mathias\Documents\Programmieren\GenBoost\ZeroFinalTrain.csv')
 
 #hier werden die ergebnisse gespeichert
